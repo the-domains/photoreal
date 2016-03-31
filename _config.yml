@@ -1,0 +1,28 @@
+name: PhotoReal
+favicon: null
+layout_spectrum: 0.6635850321035832
+typography_spectrum: 0.38995084329508245
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7710918609518558
+  lightness: 0.8175395985599607
+  saturation: 0.3754040845669806
+  rhythmicContrast: 0.6279357795137912
+purpose: []
